@@ -18,8 +18,6 @@
   <li>🧑‍💻 I enjoy building mobile apps with <b>Expo Ionic</b></li>
 </ul>
 
-<br/>
-
 <h2 align="left">Languages and Tools</h2>
 <hr/>
 
